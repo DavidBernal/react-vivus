@@ -2,7 +2,7 @@
   "name": "react-vivus",
   "version": "1.0.0",
   "description": "Vivus like react component",
-  "main": "app.js",
+  "main": "index.js",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.1.0",
